@@ -25,7 +25,9 @@ To demonstrate practical UI/UX design skills by reimagining the FlashBank user i
 └── README.md
 
 ## 🔗 Live Preview
-Vercel Link: https://your-vercel-link.vercel.app
+Vercel Link: https://html-project-flashbank-redesign.vercel.app/
+
+
 High Fidelity Prototype On Figma: https://www.figma.com/design/ATb897SV4vGOnpAghDvMgn/FlashBank-Redesign--H.A.A.-Samudika?node-id=1-2&t=9ouPCf8VJLgzscXg-1
 
 ## 👤 Author
